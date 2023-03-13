@@ -110,9 +110,9 @@ class MovieDetailsScreen extends StatelessWidget {
                                     Border.all(color: Colors.white, width: 1),
                                 borderRadius: BorderRadius.circular(20),
                               ),
-                              child: FlatButton(
-                                height: 90,
-                                minWidth: 90,
+                              child: TextButton(
+                                // height: 90,
+                                // minWidth: 90,
                                 onPressed: () {
                                   // getLinksMovie();
                                   Navigator.push(
@@ -151,9 +151,9 @@ class MovieDetailsScreen extends StatelessWidget {
                                     Border.all(color: Colors.white, width: 1),
                                 borderRadius: BorderRadius.circular(20),
                               ),
-                              child: FlatButton(
-                                height: 90,
-                                minWidth: 90,
+                              child: TextButton(
+                                // height: 90,
+                                // minWidth: 90,
                                 onPressed: () {},
                                 child: Column(
                                   children: [
@@ -180,9 +180,9 @@ class MovieDetailsScreen extends StatelessWidget {
                                     Border.all(color: Colors.white, width: 1),
                                 borderRadius: BorderRadius.circular(20),
                               ),
-                              child: FlatButton(
-                                height: 90,
-                                minWidth: 90,
+                              child: TextButton(
+                                // height: 90,
+                                // minWidth: 90,
                                 onPressed: () {},
                                 child: Column(
                                   children: const [

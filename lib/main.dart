@@ -106,23 +106,23 @@ class _MyHomePageState extends State<MyHomePage> {
                   items: const <BottomNavigationBarItem>[
                     BottomNavigationBarItem(
                       icon: Icon(Icons.favorite),
-                      title: Text('Favorite'),
+                      label: 'Favorite',
                     ),
                     BottomNavigationBarItem(
                       icon: Icon(Icons.people),
-                      title: Text('Casts'),
+                      label: 'Casts',
                     ),
                     BottomNavigationBarItem(
                       icon: Icon(Icons.local_movies),
-                      title: Text('Series'),
+                      label: 'Series',
                     ),
                     BottomNavigationBarItem(
                       icon: Icon(Icons.movie_creation_sharp),
-                      title: Text('Movies'),
+                      label: 'Movies',
                     ),
                     BottomNavigationBarItem(
                       icon: Icon(Icons.home),
-                      title: Text('Home'),
+                      label: 'Home',
                     ),
                   ],
                   currentIndex: _selectedIndex,

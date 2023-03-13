@@ -59,7 +59,7 @@ class _FavoriteCardState extends State<FavoriteCard> {
                     borderRadius: BorderRadius.all(Radius.circular(17))),
                 child: ClipRRect(
                   borderRadius: const BorderRadius.all(Radius.circular(15)),
-                  child: Image.asset('assets/images/moneyheist.jpg'),
+                  child: Image.asset('assets/images/profile.jpg'),
                 ),
               ),
             )

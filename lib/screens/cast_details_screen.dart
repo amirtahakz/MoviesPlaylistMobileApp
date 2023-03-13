@@ -77,9 +77,9 @@ class CastDetailsScreen extends StatelessWidget {
                           border: Border.all(color: Colors.white, width: 1),
                           borderRadius: BorderRadius.circular(20),
                         ),
-                        child: FlatButton(
-                          height: 75,
-                          minWidth: 75,
+                        child: TextButton(
+                          // height: 75,
+                          // minWidth: 75,
                           onPressed: () => {
                             Navigator.push(
                                 context,
@@ -109,9 +109,9 @@ class CastDetailsScreen extends StatelessWidget {
                           border: Border.all(color: Colors.white, width: 1),
                           borderRadius: BorderRadius.circular(20),
                         ),
-                        child: FlatButton(
-                          height: 75,
-                          minWidth: 75,
+                        child: TextButton(
+                          // height: 75,
+                          // minWidth: 75,
                           onPressed: () {
                             Navigator.push(
                                 context,
@@ -140,9 +140,9 @@ class CastDetailsScreen extends StatelessWidget {
                           border: Border.all(color: Colors.white, width: 1),
                           borderRadius: BorderRadius.circular(20),
                         ),
-                        child: FlatButton(
-                          height: 75,
-                          minWidth: 75,
+                        child: TextButton(
+                          // height: 75,
+                          // minWidth: 75,
                           onPressed: () {
                             Navigator.push(
                                 context,
@@ -171,9 +171,9 @@ class CastDetailsScreen extends StatelessWidget {
                           border: Border.all(color: Colors.white, width: 1),
                           borderRadius: BorderRadius.circular(20),
                         ),
-                        child: FlatButton(
-                          height: 75,
-                          minWidth: 75,
+                        child: TextButton(
+                          // height: 75,
+                          // minWidth: 75,
                           onPressed: () {},
                           child: Column(
                             children: const [
